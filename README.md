@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Welcome to the Gender-Age-Prediction project! This collaborative effort was undertaken by three dedicated individuals: [Your Name], Lyu Ya Xing, and Heng Kee Liang. This repository contains all the code and resources necessary to predict the gender and age of individuals based on specific data inputs.
+Welcome to the Gender-Age-Prediction project! This collaborative effort was undertaken by three dedicated individuals: Gabriel Choong Ge Liang, Lyu Ya Xing, and Heng Kee Liang. This repository contains all the code and resources necessary to predict the gender and age of individuals based on specific data inputs.
 
 ## Table of Contents
 - [Introduction](#introduction)
