@@ -26,3 +26,6 @@ Moving forward, the codebase will be utilized to train smaller batches of facial
 While progress has been made, challenges persist in achieving the desired testing accuracy. The decision to refine the codebase demonstrates a proactive approach to addressing these challenges and enhancing project performance. Ongoing experimentation with diverse techniques and datasets is paramount to realizing success in training an AI model for gender and age prediction based on facial data. With steadfast dedication, we remain optimistic about achieving our project objectives.
 
 "I don't care about the people who said they identify as a certain gender." - Gabriel
+
+## Date: April 11th, 2024
+
